@@ -3,6 +3,7 @@
 ## Python実践データ分析100本ノック
 
 ![Python実践データ分析100本ノック](https://www.shuwasystem.co.jp//images/book/481288.jpg)
+
 使用する本はこちら! 「Python実践データ分析100本ノック」
 下山 輝昌 (著), 松田 雄馬 (著), 三木 孝行 (著)
 [秀和システム本の紹介](https://www.shuwasystem.co.jp/book/9784798058757.html)
