@@ -14,6 +14,13 @@
 - 書籍を購入してください。画面での共有などはできません。
 - 書籍7ページにあるサンプルソースをダウンロードしてcsvを利用できる状態にしてください。
 - Jupyter Notebookか、Google Colaboratoryを実行できる状態で参加ください。
+- 途中の回から参加する方は前回までの分を予習して参加するか、予習なしで本の最初から挑んでいただいても大丈夫です。
+- 議事録は参加者だけ見れます。
+- 質問しあいましょう。
 
+### logs
 - 2020-02-23: [Pyladies Tokyo Meetup #58　Python本で読書会しよう！](https://pyladies-tokyo.connpass.com/event/203098/)
+  - 第1章 ウェブからの注文数を分析する10本ノック（ノック1～10）実施
+
 - 2020-03-27: [Pyladies Tokyo Meetup #59　Python本で読書会しよう！(2回目)](https://pyladies-tokyo.connpass.com/event/206182/)
+  - 第1章 小売店のデータでデータ加工を行う10本ノックからスタート
